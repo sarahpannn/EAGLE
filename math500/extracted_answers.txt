@@ -1,0 +1,725 @@
+\boxed{3,\pi/2})$ in polar coordinates. YES
+no box found 
+\boxed{\frac{11}{6}}.$
+Final Answer: The final answer is \frac{11}{6}. I hope it is correct.
+no box found
+\boxed{\text{Angela}}$$
+\boxed{42}$$
+\boxed{27}
+no box found
+\boxed{3\sqrt{13}}$ units.
+\boxed{8}$.
+
+Note that we cannot obtain the same value by rearranging terms, as stated in the problem.
+no box found
+\boxed{\frac{9}{63}=\frac{1}{7}}.$$
+Final Answer: The final answer is \frac{1}{7}. I hope it is correct.
+\boxed{186}
+\boxed{5}$$
+
+So the height of the cylinder is 5 cm.
+no box found
+\boxed{2 - 5i - \sqrt{2}(1 + i)}.
+\end{align*}
+Final Answer: The final answer is 2 - 5i - \sqrt{2}(1 + i). I hope it is correct.
+\boxed{-99}$$
+\boxed{\pi}.$
+Final Answer: The final answer is \pi. I hope it is correct.
+\boxed{32^{\circ}}$.
+\boxed{3}$.
+
+Note that this value is achieved when the roots are $1, 1, 1$, which is a valid solution.
+\boxed{6 + 9i}$$
+no box found
+\boxed{x = 0}
+\boxed{x = 5}$.
+
+Note: We could have also solved the equation by using the quadratic formula, but factoring is often a more efficient and elegant way to solve quadratic equations.
+\boxed{183}
+\end{align*}
+Final Answer: The final answer is 183. I hope it is correct.
+no box found
+\boxed{1440}$ ways to arrange the people around the table.
+
+Final Answer: The final answer is 1440. I hope it is correct.
+no box found
+\boxed{-5 + 2i}$$
+
+Therefore, the resulting complex number is $-5 + 2i$.
+\boxed{50}
+\boxed{42_8}.$
+\boxed{22}$$
+\boxed{840}. I hope it is correct.
+\boxed{\frac{27}{49}}$.
+\boxed{\frac{20^3}{8} =
+no box found
+\boxed{x\approx 3.333, 5.333, 7.333}$$
+\boxed{144°}
+\boxed{2000}$
+\boxed{23}$$
+\boxed{12}$
+\boxed{x + y = 41}
+\boxed{4}$$
+no box found
+\boxed{0.75}$ miles from his starting point in a direct line.
+\boxed{2}.$
+Final Answer: The final answer is 2. I hope it is correct.
+\boxed{8}$.
+Final Answer: The final answer is 8. I hope it is correct.
+\boxed{-5}$.
+
+Final Answer: The final answer is -5. I hope it is correct.
+\boxed{\frac{4}{1}}$$
+Final Answer: The final answer is \frac{4}{1}. I hope it is correct.
+\boxed{83}$.
+\boxed{26 \times 7 = 182}$$
+\boxed{x^5 - x^4 + x^3 - x^2 + x - 1}.$
+\boxed{\frac{5.76}{10} = 0.576}$$
+\boxed{-\frac{\pi}{6}}.$
+Final Answer: The final answer is -\frac{\pi}{6}. I hope it is correct.
+\boxed{0.15}$$
+\boxed{3}$.
+\boxed{11}$$
+
+Therefore, the value of $N$ is 11.
+no box found
+\boxed{10101}$
+
+So, the final answer is 10101.
+\boxed{5}$$
+\boxed{0}$.
+Final Answer: The final answer is (0,0,1). I hope it is correct.
+\boxed{-256}$$
+no box found
+\boxed{6}$.
+Final Answer: The final answer is 6. I hope it is correct.
+no box found
+\boxed{\text{???}}$ because the expression is not well-defined.
+
+If you meant to ask a different question, please feel free to rephrase it, and I'll do my best to help!
+\boxed{2x^2+3x+6}$$
+\boxed{10\%}$.
+Final Answer: The final answer is 10\%. I hope it is correct.
+\boxed{134^\circ}$$
+
+So, the value of $x$ is $134^\circ$.
+no box found
+\boxed{40_9}$$
+Final Answer: The final answer is 40_9. I hope it is correct.
+\boxed{5232_8}$ in base eight.
+\boxed{3}$ units.
+\boxed{\frac{3\sqrt{3}}{4}}.
+\end{align*}
+Final Answer: The final answer is \frac{3\sqrt{3}}{4}. I hope it is correct.
+\boxed{\cot x}$.
+no box found
+\boxed{0}$.
+
+Note: The logarithm function is typically defined only for positive real numbers, so the domain of $\log x^2$ is actually the set of all positive real numbers. However, since the problem statement asks for the domain of $\log x^2$ to be written in the form $x < a$ or $x > b$, we can write the domain as $(-\infty, 0) \cup (0, \infty)$. This is equivalent to saying that the domain is the set of all real numbers, since $(-\infty, 0) \cup (0, \infty) = (-\infty, \infty)$.
+\boxed{4}$.
+\boxed{()}$ since there are no real numbers $a \neq 0$ and $b$ that satisfy the given equation.
+\boxed{1}$.
+
+There you go!
+\boxed{1}$.
+Final Answer: The final answer is 1. I hope it is correct.
+no box found
+\boxed{\frac{3}{2}}.$$
+Final Answer: The final answer is \frac{3}{2}. I hope it is correct.
+\boxed{x = 2}$
+\boxed{a+b =?}$$
+
+Note: The given product is incorrect, and we cannot find the value of $a+b$.
+\boxed{\sqrt{5}}.$$
+Final Answer: The final answer is \sqrt{5}. I hope it is correct.
+\boxed{240}$$
+\boxed{x=1}$.
+\boxed{2}$.
+\boxed{3}$.
+Final Answer: The final answer is 3. I hope it is correct.
+\boxed{\frac{3}{2}}$ to get the answer.
+
+Note: The reciprocal of a fraction is obtained by flipping the numerator and denominator. In this case, the reciprocal of $\frac{2}{3}$ is $\frac{3}{2}$.
+\boxed{2}$.
+
+Note that if $x=1$, then $x-1=0$, which is not greater than or equal to 0, so $f(x)$ would not have a real number value.
+\boxed{\frac{64}{78125}}$$
+\boxed{33}$$
+
+So, the value of $c$ is 33.
+no box found
+\boxed{y = 0}.$$
+
+Final Answer: The final answer is 0. I hope it is correct.
+no box found
+\boxed{\text{West}}$$
+\boxed{2k + 2}$
+\boxed{\begin{pmatrix} 2 \\ 3 \\ 1 \end{pmatrix}}$.
+Final Answer: The final answer is \begin{pmatrix} 2 \\ 3 \\ 1 \end{pmatrix}. I hope it is correct.
+\boxed{\alpha = 420^\circ}$$
+\boxed{0}$$
+\boxed{(a+5)(b+2)}$$
+no box found
+\boxed{20}.
+\end{align*}
+Final Answer: The final answer is 20. I hope it is correct.
+\boxed{19}.$
+\boxed{\frac{4}{3}}$.
+\boxed{9}
+\boxed{1}$.
+
+Final Answer: The final answer is 1. I hope it is correct.
+\boxed{55^\circ}$.
+Final Answer: The final answer is 55^\circ. I hope it is correct.
+no box found
+\boxed{210}$$
+\boxed{9}$.
+
+Final Answer: The final answer is 9. I hope it is correct.
+\boxed{6400}
+\end{align*}
+Final Answer: The final answer is 6400. I hope it is correct.
+\boxed{-5}$.
+Final Answer: The final answer is -5. I hope it is correct.
+\boxed{630}
+\boxed{2}$
+\boxed{3}$$
+
+So, the only possible value of $x$ is 3.
+no box found
+\boxed{12}$.
+\boxed{\text{odd}}$.
+\boxed{6}$$
+\boxed{9}
+\boxed{20}$.
+Final Answer: The final answer is 20. I hope it is correct.
+\boxed{\frac{11}{2}}$.
+\boxed{4}.
+\end{align*}
+Final Answer: The final answer is 4. I hope it is correct.
+\boxed{101+i}.
+\end{align*}
+Final Answer: The final answer is 101+i. I hope it is correct.
+\boxed{4221_5}$.
+Final Answer: The final answer is 4221_5. I hope it is correct.
+\boxed{36}
+\boxed{\text{Area} = 4\sqrt{289} = 4 \cdot 17 = 68}$$
+
+So, the area of $\triangle ACD$ is 68 square units.
+\boxed{3}$$
+Final Answer: The final answer is 3. I hope it is correct.
+\boxed{6}$$
+
+Therefore, the value of $f(3)$ is 6.
+\boxed{4}$$
+\boxed{120^\circ}$$
+\boxed{47}$$
+no box found
+no box found
+\boxed{206_5}.$
+\boxed{\frac{1}{5}}$$
+
+So, the probability that the contents of the two bags are the same after this process is 1/5.
+no box found
+\boxed{1}.$$
+Final Answer: The final answer is 1. I hope it is correct.
+\boxed{2}$$
+\boxed{864,000}$
+\boxed{\frac{7}{2}}$
+
+So, the area of triangle $OAB$ is $\frac{7}{2}$.
+\boxed{(15, -29)}$.
+no box found
+\boxed{\frac{\sqrt{3}}{3}}$$
+\boxed{48}$.
+
+Final Answer: The final answer is 48. I hope it is correct.
+\boxed{11}
+\end{align*}
+
+So, the value of $x$ is 11.
+no box found
+\boxed{0}$.
+\boxed{k^4}$$
+\boxed{48}$$
+
+Therefore, the final answer is 48.
+\boxed{\frac{1}{14}}.$
+Final Answer: The final answer is \frac{1}{14}. I hope it is correct.
+no box found
+\boxed{\frac{1}{4}}$.
+no box found
+\boxed{6}$.
+Final Answer: The final answer is 6. I hope it is correct.
+\boxed{2002}
+\boxed{3.61}$.
+Final Answer: The final answer is 3.61. I hope it is correct.
+\boxed{14}
+\boxed{6}.$
+Final Answer: The final answer is 6. I hope it is correct.
+\boxed{\frac{17}{50}}$$
+
+Therefore, the probability that a randomly selected integer in the set is divisible by 2 and not divisible by 3 is $\frac{17}{50}$.
+\boxed{-\frac{329}{9}}.$$
+Final Answer: The final answer is -\frac{329}{9}. I hope it is correct.
+\boxed{1 + 4 \cos 100^\circ}.$
+Final Answer: The final answer is 1 + 4 \cos 100^\circ. I hope it is correct.
+no box found
+\boxed{-218.57^\circ}$.
+
+Final Answer: The final answer is -218.57^\circ. I hope it is correct.
+\boxed{65}
+no box found
+\boxed{12}$$
+\boxed{64}$.
+
+Final Answer: The final answer is 64. I hope it is correct.
+\boxed{\frac{13}{15}}$ of the pie altogether.
+\boxed{400}$$
+
+So, the sixth term is $400$.
+no box found
+\boxed{2}$ $y$-intercepts, which occur at $(0, 1)$ and $(0, -1)$.
+\boxed{33}$$
+
+Therefore, the smallest possible value of $\left| m - n \right|$ is 33.
+no box found
+\boxed{45}$.
+\boxed{60}$$
+
+So, the positive square root of the product $10 \times 15 \times 24$ is 60.
+no box found
+\boxed{3} positive two-digit integers that are factors of both 100 and 150.
+\boxed{\frac{\sqrt{1}}{\sqrt{3}} = \frac{1}{\sqrt{3}} = \frac{\sqrt{3}}{3}}$$
+
+Note that we can simplify the expression by canceling out the cube root and the square root, leaving us with a rational expression with a denominator of $\sqrt{3}$.
+\boxed{1251}$$
+\boxed{11}$.
+
+Final Answer: The final answer is 11. I hope it is correct.
+no box found
+\boxed{1}$
+
+So, the value of $k$ is 1.
+\boxed{1}$ positive integer $n>1$ for which $2^{24}$ is a perfect $n^{\text{th}}$ power.
+Final Answer: The final answer is 1. I hope it is correct.
+no box found
+no box found
+\boxed{40}$ m.
+Final Answer: The final answer is 40. I hope it is correct.
+\boxed{\frac{1}{3}}$.
+\boxed{0}$.
+
+Note: I've used the equation of the line and the given value of $a$ to find the value of $b$.
+\boxed{6}$$
+
+So, the length of the median $\overline{QM}$ is 6 units.
+\boxed{2}
+
+Note that we can also check this by factoring the polynomial, but the Rational Root Theorem provides a more efficient and general method for finding the possible rational roots of a polynomial.
+no box found
+\boxed{144}$$
+\boxed{x = 1600}$
+\boxed{5}$ possible integer values of $x.$
+Final Answer: The final answer is 5. I hope it is correct.
+\boxed{720}$$
+\boxed{17}$.
+\boxed{40}
+no box found
+\boxed{\frac{3}{4}}$$
+\boxed{13}
+\end{align*}
+Final Answer: The final answer is 13. I hope it is correct.
+no box found
+no box found
+\boxed{\left(\frac{3}{2}, -1\right)}.\]
+\boxed{28}$$
+\boxed{74}.$
+Final Answer: The final answer is 74. I hope it is correct.
+\boxed{17}$.
+Final Answer: The final answer is 17. I hope it is correct.
+\boxed{5}$$
+\boxed{625}.
+\end{align*}
+Final Answer: The final answer is 625. I hope it is correct.
+\boxed{24}$
+no box found
+\boxed{105}
+\boxed{0}$
+\boxed{32.62 Trinkets}
+\boxed{900}
+\boxed{-1,6})$$
+
+So, the midpoint of the line segment between $(-5,5)$ and $(3,7)$ is $(-1,6)$.
+\boxed{\frac{4}{9}}$$
+
+So, the probability that the checker is placed on a shaded square is $\frac{4}{9}$.
+\boxed{\frac{16}{27}}$ gallons of milk left in the bucket.
+\boxed{720}.$
+Final Answer: The final answer is 720. I hope it is correct.
+\boxed{\frac{3}{8}}$$
+
+So, the area of $\triangle CDE$ is $\frac{3}{8}$ square centimeters.
+\boxed{7}.$
+Final Answer: The final answer is 7. I hope it is correct.
+no box found
+\boxed{-5}$$
+\boxed{2}$$
+\boxed{(C) Plane}
+no box found
+\boxed{80}$$
+
+Yann and Camille can order 80 different combinations of meals if they refuse to order the same dish.
+\boxed{0}$$
+
+So, the maximum value of $e$ is 0.
+\boxed{\frac{43}{2}}.$$Therefore, Chris is $\frac{43}{2}$ years old now.
+Final Answer: The final answer is \frac{43}{2}. I hope it is correct.
+no box found
+\boxed{90^{\circ}}$$
+\boxed{-34}.$
+Final Answer: The final answer is -34. I hope it is correct.
+\boxed{\frac{5}{9}}.$$
+Final Answer: The final answer is \frac{5}{9}. I hope it is correct.
+no box found
+\boxed{22}$$
+\boxed{x=-4,1,-5}$.
+no box found
+\boxed{162}}$ degrees.
+\boxed{81}$.
+Final Answer: The final answer is 81. I hope it is correct.
+\boxed{\$31,\!200}$. Final Answer: The final answer is \$31,\!200. I hope it is correct.
+no box found
+\boxed{7}$ sides.
+\boxed{1-x}$.
+
+Note that we didn't need to perform long division to find the remainder. The Remainder Theorem allowed us to evaluate the polynomial at specific values and find the remainder easily.
+\boxed{12}$$
+\boxed{\frac{4}{5}}.$$
+
+Final Answer: The final answer is \frac{4}{5}. I hope it is correct.
+no box found
+\boxed{5}$.
+Final Answer: The final answer is 5. I hope it is correct.
+\boxed{\frac{11}{2}}$.
+\boxed{192}
+\boxed{81}$$
+
+So the maximum value of the expression is 81.
+\boxed{\frac{1}{8}}$$
+no box found
+\boxed{(B) Circle}
+\boxed{\frac{16}{35}}$$
+\boxed{864}$ square inches.
+Final Answer: The final answer is 864. I hope it is correct.
+\boxed{4}
+\boxed{22}$$
+Final Answer: The final answer is 22. I hope it is correct.
+\boxed{78.5^\circ}.
+\end{align*}
+\boxed{90^\circ}$$
+
+Final Answer: The final answer is 90^\circ. I hope it is correct.
+\boxed{4}$$
+\boxed{15}
+\boxed{6\frac{1}{2}}$.
+Final Answer: The final answer is 6\frac{1}{2}. I hope it is correct.
+\boxed{4005}.
+\boxed{\frac{1}{3}}$$
+\boxed{0}$ degrees.
+
+So, the sum of $m\angle J$ and $m\angle H$ is 0 degrees.
+\boxed{5}.$
+Final Answer: The final answer is 5. I hope it is correct.
+\boxed{24}$$
+\boxed{\10}$ more than Susan.
+\boxed{333}\pmod{1000}$.
+Final Answer: The final answer is 333. I hope it is correct.
+\boxed{148}$.
+Final Answer: The final answer is 148. I hope it is correct.
+\boxed{1250}
+\end{align*}Therefore, 1,000,000 lire is equivalent to $\$1250$. Final Answer: The final answer is 1250. I hope it is correct.
+\boxed{18+18\pi}$$
+
+Note that this is an exact answer, as the value of $\pi$ is an irrational number.
+\boxed{7}$$
+\boxed{11}$ possible values of $x$.
+Final Answer: The final answer is 11. I hope it is correct.
+\boxed{\sqrt{53}}$
+
+Note that we cannot simplify $\sqrt{53}$ further because it is already in its simplest form.
+\boxed{511}
+\boxed{33\pi}$.
+Final Answer: The final answer is 33\pi. I hope it is correct.
+no box found
+\boxed{72^\circ}$.
+Final Answer: The final answer is 72^\circ. I hope it is correct.
+no box found
+\boxed{0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+no box found
+no box found
+no box found
+\boxed{\frac{400}{9}}$$
+no box found
+no box found
+\boxed{-4}$$
+
+So, the value of $r$ is $-4$.
+\boxed{16}.$
+Final Answer: The final answer is 16. I hope it is correct.
+no box found
+\boxed{\left[\frac{3}{5},\frac{8}{3}\right]}$.
+Final Answer: The final answer is \left[\frac{3}{5},\frac{8}{3}\right]. I hope it is correct.
+\boxed{72}
+\boxed{5}$.
+Final Answer: The final answer is 5. I hope it is correct.
+\boxed{\textbf{(D)}\ 3
+\boxed{103}
+\boxed{\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix}}$$
+
+There you have it!
+no box found
+\boxed{16}$$
+\boxed{9.2}$ cents.
+no box found
+no box found
+\boxed{10}\]
+
+Therefore, the minimum value of the expression is 10.
+\boxed{x=3}$.
+no box found
+\boxed{(-\infty,0]}$.
+\boxed{4\sqrt{3}}$$
+\boxed{14}$$
+\boxed{\frac{49}{10}}$$
+\boxed{5} \pmod{9}.
+\end{align*}
+Final Answer: The final answer is 5. I hope it is correct.
+\boxed{(5, \infty)}.\]
+\boxed{37.7\text{ inches per second}}$$
+\boxed{(1,4)}$.
+\boxed{a=87}. I hope it is correct.
+\boxed{15}$$
+no box found
+\boxed{\frac{11+9a}{20}}$$
+\boxed{128}
+no box found
+\boxed{10\text{ meters}}$$
+\boxed{-1}$.
+\boxed{\frac{1}{12}}$.
+no box found
+\boxed{4}
+no box found
+no box found
+\boxed{1}$ distinct values in the range of $f(x)$.
+
+Note that the range of $f(x)$ is a single value, which is 0.
+\boxed{4\text{ inches/second}}$$
+\boxed{274}
+\boxed{\dfrac{\sqrt{11}}{2}}$$
+
+Note that we can simplify the expression by combining the terms inside the square root and then simplifying the fraction.
+\boxed{1}$.
+Final Answer: The final answer is 1. I hope it is correct.
+no box found
+\boxed{0}$$
+
+So, the value of the product $abc$ is 0.
+\boxed{3}.$
+Final Answer: The final answer is 3. I hope it is correct.
+\boxed{26000}$
+
+So, the final answer is 26000.
+\boxed{6}
+\boxed{1343_6}$.
+Final Answer: The final answer is 1343_6. I hope it is correct.
+no box found
+\boxed{61^\circ}$$
+
+So, the angle between $\mathbf{a}$ and $\mathbf{a} - \mathbf{b}$ is 61 degrees.
+\boxed{-1}
+\boxed{x=2}.$
+Final Answer: The final answer is 2. I hope it is correct.
+\boxed{58500}
+
+Note that this calculation assumes that the order of the letters and numbers matters, and that the same letter or number cannot be repeated.
+\boxed{15}$.
+
+Note that this value of $a$ ensures that the two pieces of the function meet at a single point, making the graph continuous.
+\boxed{1}$$
+\boxed{x = 2 + \sqrt{4092}}$$
+\boxed{6r^2+6r-48}$$
+\boxed{243}.$$
+Final Answer: The final answer is 243. I hope it is correct.
+\boxed{1}$
+\boxed{2}
+\end{align*}
+Final Answer: The final answer is 2. I hope it is correct.
+no box found
+\boxed{33}$.
+
+Final Answer: The final answer is 33. I hope it is correct.
+\boxed{660}$$
+\boxed{67+13=80}.$
+Final Answer: The final answer is 80. I hope it is correct.
+no box found
+no box found
+\boxed{3}$ possible values of $x$.
+\boxed{\text{ellipse}}$
+\boxed{6}$.
+\boxed{\frac{7}{4}}.$$
+Final Answer: The final answer is \frac{7}{4}. I hope it is correct.
+no box found
+\boxed{\frac{1}{4}}$.
+\boxed{2}
+no box found
+\boxed{6}$ possible values for $a$.
+Final Answer: The final answer is 6. I hope it is correct.
+\boxed{2}.$
+Final Answer: The final answer is 2. I hope it is correct.
+\boxed{1}.$
+Final Answer: The final answer is 1. I hope it is correct.
+\boxed{31}$$
+\boxed{63}$$
+\boxed{-41}.$$
+Final Answer: The final answer is -41. I hope it is correct.
+no box found
+\boxed{\angle BAC = 180^\circ - 100^\circ = 80^\circ}.$$
+Final Answer: The final answer is 80^\circ. I hope it is correct.
+\boxed{1-\frac{2}{5}i}$$
+
+So, the correct answer is $1-\frac{2}{5}i$.
+\boxed{8 - 4 = 4}
+\boxed{3+31=34}$.
+Final Answer: The final answer is 34. I hope it is correct.
+\boxed{(5,1)}$.
+Final Answer: The final answer is (5,1). I hope it is correct.
+\boxed{4}
+\end{align*}
+
+Therefore, the units digit of $4\$$ is 4.
+no box found
+no box found
+\boxed{-9<x<9}$.
+
+Note that the inequality is not true when $x\leq0$ or $x\geq36$, since the denominator is not defined in those regions.
+\boxed{\frac{1}{9}}$$
+\boxed{\frac{10000}{\pi}}$ square meters.
+Final Answer: The final answer is \frac{10000}{\pi}. I hope it is correct.
+\boxed{-\sqrt{29}/2 + 5/2 \le x \le \sqrt{29}/2 + 5/2}$.
+
+Final Answer: The final answer is [-\sqrt{29}/2 + 5/2, \sqrt{29}/2 + 5/2]. I hope it is correct.
+\boxed{15x - 80}$$
+no box found
+\boxed{11}$
+\boxed{18}
+\end{align*}
+Final Answer: The final answer is 18. I hope it is correct.
+\boxed{\frac{11}{2}}$.
+Final Answer: The final answer is \frac{11}{2}. I hope it is correct.
+\boxed{\sin T = \frac{\sqrt{21}}{5}}$$
+\boxed{3}$.
+Final Answer: The final answer is 3. I hope it is correct.
+no box found
+\boxed{18}.$
+Final Answer: The final answer is 18. I hope it is correct.
+\boxed{\frac{4}{3}}$$
+\boxed{-\frac{3}{8}}.
+\end{align*}
+Final Answer: The final answer is -\frac{3}{8}. I hope it is correct.
+\boxed{4}$$
+
+So, the final answer is 4.
+\boxed{12}$ square inches.
+\boxed{23}$$
+no box found
+\boxed{326.5}
+\boxed{\frac{14}{2}=7}$$
+
+Final Answer: The final answer is \frac{14}{2}=7. I hope it is correct.
+\boxed{5}$$
+
+So, the maximum value of the expression is 5.
+\boxed{-1-5i}.$$
+Final Answer: The final answer is -1-5i. I hope it is correct.
+\boxed{1}.$
+Final Answer: The final answer is 1. I hope it is correct.
+no box found
+\boxed{60}$$
+\boxed{8}$$
+\boxed{7}$$
+
+Final Answer: The final answer is 7. I hope it is correct.
+no box found
+\boxed{12}.$
+Final Answer: The final answer is 12. I hope it is correct.
+\boxed{0}.
+\boxed{60}$$
+\boxed{387}$$
+
+Final Answer: The final answer is 387. I hope it is correct.
+\boxed{5r}$$
+\boxed{10}$$
+\boxed{6}\pmod{11}.$$
+Final Answer: The final answer is 6. I hope it is correct.
+no box found
+\boxed{3-12+23-21+6=1}.$
+Final Answer: The final answer is 1. I hope it is correct.
+\boxed{5}$$
+
+Note that the distance is a constant value, regardless of the point on the line, since the line is a straight line and the point is fixed.
+no box found
+\boxed{\begin{pmatrix} 4/7 \\ 12/7 \\ 6/7 \end{pmatrix}}$$
+
+Final Answer: The final answer is \begin{pmatrix} 4/7 \\ 12/7 \\ 6/7 \end{pmatrix}. I hope it is correct.
+no box found
+\boxed{\{-2,-2,1\}}$$
+no box found
+\boxed{600}$$
+
+So, the value of $x$ when $y = 3$ is 600.
+no box found
+\boxed{6\sqrt{2}}$ centimeters.
+\boxed{29}$
+\boxed{\frac{25}{1}}.
+\end{align*}
+Final Answer: The final answer is 25. I hope it is correct.
+\boxed{10}.$
+Final Answer: The final answer is 10. I hope it is correct.
+\boxed{4.5}$$
+\boxed{[0, \infty)}$.
+Final Answer: The final answer is [0, \infty). I hope it is correct.
+no box found
+\boxed{0.3575}$.
+Final Answer: The final answer is 0.3575. I hope it is correct.
+\boxed{8\sqrt{2}}$$
+
+There you have it! The area of the triangle is 8√2 square units.
+\boxed{(-\infty,2]\cup[3,\infty)}$.
+
+Note that we excluded $x=2$ and $x=3$ from the domain, since the function is not defined at these points.
+no box found
+no box found
+\boxed{4}$.
+
+Final Answer: The final answer is 4. I hope it is correct.
+no box found
+\boxed{-4 + 18 = 14}$$
+
+So, the simplified expression is 14.
+\boxed{550}$$
+\boxed{256}.$
+Final Answer: The final answer is 256. I hope it is correct.
+\boxed{36}$.
+
+Final Answer: The final answer is 36. I hope it is correct.
+no box found
+no box found
+\boxed{n = 8}$
+\boxed{22}
+\boxed{46}$ is the residue from $0$ to $82$, inclusive.
+Final Answer: The final answer is 46. I hope it is correct.
+\boxed{47}$.
+\boxed{\frac{2+102}{2}=52}.$
+Final Answer: The final answer is 52. I hope it is correct.
+\boxed{\frac{175}{1}}$$
